@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ridho!
 
-**16 years old • High school student in Jakarta • Self-taught dev who codes a lot**
+**16 years old • Vacational High school student in Jakarta • Self-taught dev who codes a lot**
 
 ---
 
