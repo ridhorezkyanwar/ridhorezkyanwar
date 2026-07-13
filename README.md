@@ -11,7 +11,6 @@ Honestly, I'm still a **high school junior** at SMKN 6 Jakarta. But instead of j
 **Current focus:**
 - 🤖 Building cybersecurity tools powered by AI (because I think this is the future)
 - 📚 Preparing for university entrance exams (wish me luck!)
-- 🏆 Just got **AWS Certified ML Engineer** — pretty cool for a high schooler, I guess
 
 **My philosophy:** _"Code first, master later"_ — just start, the skills will catch up.
 
@@ -30,11 +29,6 @@ Honestly, I'm still a **high school junior** at SMKN 6 Jakarta. But instead of j
 - AWS/Cloudinary (cloud, ML, everything in between)
 - Docker (so I don't cry during deployment)
 - Git (duh, obviously)
-
-**Currently learning:**
-- WordPress (trying to get into Automattic 😅)
-- PHP (yeah I know it's old, but WordPress uses it)
-- Go & Rust (curious about new languages)
 
 ---
 
