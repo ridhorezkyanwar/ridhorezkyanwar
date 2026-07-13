@@ -106,7 +106,7 @@ Honestly, I'm still a **high school junior** at SMKN 6 Jakarta. But instead of j
 
 **Short term:**
 - Get into a top university for Computer Science
-- Land a remote job at a global company (applying to Automattic & Canonical, wish me luck!)
+- Land a remote job at a global company 
 - Keep learning and building useful tools
 
 **Long term:**
