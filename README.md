@@ -45,6 +45,7 @@ Saya emang hobi ikut kursus online. Ini beberapa yang sudah saya selesaikan:
 - Automate Cybersecurity Tasks with Python Google
 - Machine Learning untuk Pemula — Dicoding
 - Introduction to Cybersecurity — Cisco
+- Banyak lagi di Linkedin
 
 **Kenapa banyak banget?** Karena saya percaya **learning velocity** itu penting. Daripada nunggu diajarin di sekolah, mending belajar sendiri sekarang juga.
 
