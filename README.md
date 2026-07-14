@@ -1,16 +1,17 @@
 # 👋 Hey, I'm Ridho!
 
-**16 years old • Vacational High school student in Jakarta • Self-taught dev who codes a lot**
+**16 years old • Vocational High School student in Jakarta • Self-taught dev who codes a lot**
 
 ---
 
 ## 🎯 What am I up to right now?
 
-Honestly, I'm still a **high school junior** at SMKN 6 Jakarta. But instead of just learning theory in class, I'd rather **code stuff on my own** and learn from the internet.
+Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just learning theory in class, I'd rather **code stuff on my own** and learn from the internet.
 
 **Current focus:**
 - 🤖 Building cybersecurity tools powered by AI (because I think this is the future)
 - 📚 Preparing for university entrance exams (wish me luck!)
+- 🏆 Earning industry certifications (15+ in the last 8 months!)
 
 **My philosophy:** _"Code first, master later"_ — just start, the skills will catch up.
 
@@ -91,8 +92,8 @@ Honestly, I'm still a **high school junior** at SMKN 6 Jakarta. But instead of j
 
 ## 📫 How to reach me
 
-- **Email:** ridhorezkyanwar122@gmail.com
-- **LinkedIn:** [linkedin.com/in/ridho-rezky-anwar](https://linkedin.com/in/ridho-rezky-anwar-98bb3a370)
+- **Email:** ridhorezky.dev@gmail.com
+- **LinkedIn:** [linkedin.com/in/ridho-rezky-anwar-98bb3a370](https://linkedin.com/in/ridho-rezky-anwar-98bb3a370)
 
 ---
 
