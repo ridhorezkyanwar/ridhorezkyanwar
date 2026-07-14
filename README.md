@@ -9,9 +9,10 @@
 Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just learning theory in class, I'd rather **code stuff on my own** and learn from the internet.
 
 **Current focus:**
+
 - 🤖 Building cybersecurity tools powered by AI (because I think this is the future)
 - 📚 Preparing for university entrance exams (wish me luck!)
-- 🏆 Earning industry certifications (15+ in the last 8 months!)
+- 🏆 Earning industry certifications (12+ in the last 8 months!)
 
 **My philosophy:** _"Code first, master later"_ — just start, the skills will catch up.
 
@@ -20,11 +21,13 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 ## 💻 My Daily Tech Stack
 
 **Languages:**
+
 - Python (my favorite, can do almost anything)
 - TypeScript/JavaScript (for web stuff)
 - Bash (for Linux automation)
 
 **Tools:**
+
 - Next.js + React (frontend)
 - Flask + MongoDB (backend)
 - AWS/Cloudinary (cloud, ML, everything in between)
@@ -36,6 +39,7 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 ## 🚀 Projects I'm Proud Of
 
 ### [Sentinel Log Analyzer](https://github.com/ridhorezkyanwar/sentinel-log-analyzer)
+
 **AI-powered SOC Copilot** — my favorite project so far.
 
 **The problem:** I was tired of manually reading server logs to find security threats. So tedious!
@@ -44,13 +48,24 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 **Tech:** Python, Groq API, Vercel AI SDK, TypeScript
 
-**Live:** [sentinel-log-analyzer-phi.vercel.app](https://sentinel-log-analyzer-phi.vercel.app)
+---
 
-**What I learned:** Prompt engineering is an art. Took me 15+ iterations to get a good prompt. And streaming responses are a must for good UX.
+### [SentimenNL: Indonesian NLP & Sentiment Analysis](https://github.com/ridhorezkyanwar/SentimenNL)
+
+**End-to-end Machine Learning pipeline** for classifying e-commerce reviews.
+
+**The problem:** Manually analyzing thousands of raw customer reviews to understand product feedback is impossible to scale.
+
+**The solution:** Built an NLP ecosystem that preprocesses messy Indonesian text (handling slang and contractions) and classifies sentiment using Deep Learning.
+
+**Tech:** Python, TensorFlow, Scikit-Learn, Pandas, TF-IDF.
+
+**What I learned:** Data cleaning is 80% of the work. Handling real-world Indonesian slang taught me that data is messy. Achieving 88% test accuracy required rigorous feature engineering and testing multiple algorithms (Logistic Regression, Random Forest, DNN), not just throwing data at a model.
 
 ---
 
 ### [Security Headers Analyzer](https://github.com/ridhorezkyanwar/security-headers-analyzer)
+
 **HTTP security headers scanner** — to check if a website is actually secure or not.
 
 **Tech:** Next.js, TypeScript, Tailwind
@@ -62,6 +77,7 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 ---
 
 ### [Password Entropy Visualizer](https://github.com/ridhorezkyanwar/password-entropy)
+
 **Password strength calculator** using information theory (entropy in bits).
 
 **Tech:** TypeScript, Web Crypto API
@@ -100,11 +116,13 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 ## 🎯 My Goals
 
 **Short term:**
+
 - Get into a top university for Computer Science
-- Land a remote job at a global company 
+- Land a remote job at a global company
 - Keep learning and building useful tools
 
 **Long term:**
+
 - Become an expert in AI & Cybersecurity, or Software Engineer
 - Contribute to bigger open source projects
 - Maybe start my own company someday? Who knows!
