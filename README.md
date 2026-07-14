@@ -48,6 +48,8 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 **Tech:** Python, Groq API, Vercel AI SDK, TypeScript
 
+**Live:** [sentinel-log-analyzer-phi.vercel.app](https://sentinel-log-analyzer-phi.vercel.app/)
+
 ---
 
 ### [SentimenNL: Indonesian NLP & Sentiment Analysis](https://github.com/ridhorezkyanwar/SentimenNL)
