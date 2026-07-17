@@ -38,16 +38,17 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 ## 🚀 Projects I'm Proud Of
 
-### 🎓 [ShadowSix: Learning Management System](https://github.com)
+### 🎓 [ShadowSix: Learning Management System](https://github.com/ridhorezkyanwar/shadowsix-lms)
 **Full-Stack School Platform** — my concrete proof of core web engineering.
 - **The problem:** Managing multi-subject digital learning and access control can get chaotic without a structured system.
 - **The solution:** Built a complete LMS with secure role-based session control (Student vs Admin) and a dynamic CRUD admin dashboard to manage course materials across 13+ subjects seamlessly.
 - **Tech:** PHP 7+, MySQLi (Object-Oriented), HTML5, CSS3, Apache.
 - **What I learned:** Handling sessions securely and writing raw object-oriented PHP queries taught me how data flows safely from backend servers to client viewports.
+- **Live:** [shadowsSix](https://ridho10.ukk-rpl.site/)ts.
 
 ---
 
-### 💳 [Transaction Fraud Clustering](https://github.com)
+### 💳 [Transaction Fraud Clustering](https://github.com/ridhorezkyanwar/transaction-fraud-clustering)
 **Two-Stage Applied Machine Learning Ecosystem** for financial anomaly detection.
 - **The problem:** Most financial transaction data in the real world is highly unstructured and completely unlabeled, making standard classification models useless.
 - **The solution:** Architected a two-stage pipeline. Stage 1 uses PCA for dimensionality reduction and KMeans for automatic transaction grouping. Stage 2 converts those clusters into target labels to train a supervised Decision Tree classifier for real-time anomaly inference.
