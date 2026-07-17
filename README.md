@@ -56,7 +56,7 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 ---
 
-### [Sentinel Log Analyzer](https://github.com/ridhorezkyanwar/sentinel-log-analyzer)
+### 🛡️ [Sentinel Log Analyzer](https://github.com/ridhorezkyanwar/sentinel-log-analyzer)
 
 **AI-powered SOC Copilot** — my favorite project so far.
 
@@ -70,7 +70,7 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 ---
 
-### [SentimenNL: Indonesian NLP & Sentiment Analysis](https://github.com/ridhorezkyanwar/SentimenNL)
+### 📊 [SentimenNL: Indonesian NLP & Sentiment Analysis](https://github.com/ridhorezkyanwar/SentimenNL)
 
 **End-to-end Machine Learning pipeline** for classifying e-commerce reviews.
 
@@ -84,7 +84,7 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 ---
 
-### [Security Headers Analyzer](https://github.com/ridhorezkyanwar/security-headers-analyzer)
+### 🔍 [Security Headers Analyzer](https://github.com/ridhorezkyanwar/security-headers-analyzer)
 
 **HTTP security headers scanner** — to check if a website is actually secure or not.
 
@@ -96,7 +96,7 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 ---
 
-### [Password Entropy Visualizer](https://github.com/ridhorezkyanwar/password-entropy)
+### 🔐 [Password Entropy Visualizer](https://github.com/ridhorezkyanwar/password-entropy)
 
 **Password strength calculator** using information theory (entropy in bits).
 
