@@ -44,7 +44,7 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 - **The solution:** Built a complete LMS with secure role-based session control (Student vs Admin) and a dynamic CRUD admin dashboard to manage course materials across 13+ subjects seamlessly.
 - **Tech:** PHP 7+, MySQLi (Object-Oriented), HTML5, CSS3, Apache.
 - **What I learned:** Handling sessions securely and writing raw object-oriented PHP queries taught me how data flows safely from backend servers to client viewports.
-- **Live:** [shadowsSix](https://ridho10.ukk-rpl.site/)ts.
+- **Live:** [shadowsSix](https://ridho10.ukk-rpl.site/)
 
 ---
 
