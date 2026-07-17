@@ -56,20 +56,6 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 ---
 
-### 🛡️ [Sentinel Log Analyzer](https://github.com/ridhorezkyanwar/sentinel-log-analyzer)
-
-**AI-powered SOC Copilot** — my favorite project so far.
-
-**The problem:** I was tired of manually reading server logs to find security threats. So tedious!
-
-**The solution:** Built a tool that automatically analyzes logs using LLM (Llama 3.3 via Groq API). Can extract IoCs (Indicators of Compromise) in real-time.
-
-**Tech:** Python, Groq API, Vercel AI SDK, TypeScript
-
-**Live:** [sentinel-log-analyzer-phi.vercel.app](https://sentinel-log-analyzer-phi.vercel.app/)
-
----
-
 ### 📊 [SentimenNL: Indonesian NLP & Sentiment Analysis](https://github.com/ridhorezkyanwar/SentimenNL)
 
 **End-to-end Machine Learning pipeline** for classifying e-commerce reviews.
@@ -81,6 +67,20 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 **Tech:** Python, TensorFlow, Scikit-Learn, Pandas, TF-IDF.
 
 **What I learned:** Data cleaning is 80% of the work. Handling real-world Indonesian slang taught me that data is messy. Achieving 88% test accuracy required rigorous feature engineering and testing multiple algorithms (Logistic Regression, Random Forest, DNN), not just throwing data at a model.
+
+---
+
+### 🛡️ [Sentinel Log Analyzer](https://github.com/ridhorezkyanwar/sentinel-log-analyzer)
+
+**AI-powered SOC Copilot** — my favorite project so far.
+
+**The problem:** I was tired of manually reading server logs to find security threats. So tedious!
+
+**The solution:** Built a tool that automatically analyzes logs using LLM (Llama 3.3 via Groq API). Can extract IoCs (Indicators of Compromise) in real-time.
+
+**Tech:** Python, Groq API, Vercel AI SDK, TypeScript
+
+**Live:** [sentinel-log-analyzer-phi.vercel.app](https://sentinel-log-analyzer-phi.vercel.app/)
 
 ---
 
