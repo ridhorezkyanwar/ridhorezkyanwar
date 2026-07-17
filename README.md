@@ -44,7 +44,7 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 - **The solution:** Built a complete LMS with secure role-based session control (Student vs Admin) and a dynamic CRUD admin dashboard to manage course materials across 13+ subjects seamlessly.
 - **Tech:** PHP 7+, MySQLi (Object-Oriented), HTML5, CSS3, Apache.
 - **What I learned:** Handling sessions securely and writing raw object-oriented PHP queries taught me how data flows safely from backend servers to client viewports.
-- **Live:** [shadowsSix](https://ridho10.ukk-rpl.site/)
+- **Live:** [shadowsSix](https://ridho10.ukk-rpl.site/)ts.
 
 ---
 
@@ -59,9 +59,13 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 ### 🛡️ [Sentinel Log Analyzer](https://github.com/ridhorezkyanwar/sentinel-log-analyzer)
 
 **AI-powered SOC Copilot** — my favorite project so far.
+
 **The problem:** I was tired of manually reading server logs to find security threats. So tedious!
+
 **The solution:** Built a tool that automatically analyzes logs using LLM (Llama 3.3 via Groq API). Can extract IoCs (Indicators of Compromise) in real-time.
+
 **Tech:** Python, Groq API, Vercel AI SDK, TypeScript
+
 **Live:** [sentinel-log-analyzer-phi.vercel.app](https://sentinel-log-analyzer-phi.vercel.app/)
 
 ---
@@ -69,9 +73,13 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 ### 📊 [SentimenNL: Indonesian NLP & Sentiment Analysis](https://github.com/ridhorezkyanwar/SentimenNL)
 
 **End-to-end Machine Learning pipeline** for classifying e-commerce reviews.
+
 **The problem:** Manually analyzing thousands of raw customer reviews to understand product feedback is impossible to scale.
+
 **The solution:** Built an NLP ecosystem that preprocesses messy Indonesian text (handling slang and contractions) and classifies sentiment using Deep Learning.
+
 **Tech:** Python, TensorFlow, Scikit-Learn, Pandas, TF-IDF.
+
 **What I learned:** Data cleaning is 80% of the work. Handling real-world Indonesian slang taught me that data is messy. Achieving 88% test accuracy required rigorous feature engineering and testing multiple algorithms (Logistic Regression, Random Forest, DNN), not just throwing data at a model.
 
 ---
@@ -79,8 +87,11 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 ### 🔍 [Security Headers Analyzer](https://github.com/ridhorezkyanwar/security-headers-analyzer)
 
 **HTTP security headers scanner** — to check if a website is actually secure or not.
+
 **Tech:** Next.js, TypeScript, Tailwind
+
 **Live:** [security-headers-analyzer.vercel.app](https://security-headers-analyzer.vercel.app)
+
 **Features:** Scans 7 critical headers (HSTS, CSP, X-Frame-Options, etc) and gives grades from A+ to F.
 
 ---
@@ -88,8 +99,11 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 ### 🔐 [Password Entropy Visualizer](https://github.com/ridhorezkyanwar/password-entropy)
 
 **Password strength calculator** using information theory (entropy in bits).
+
 **Tech:** TypeScript, Web Crypto API
+
 **Live:** [password-entropy-visualizer-phi.vercel.app](https://password-entropy-visualizer-phi.vercel.app)
+
 **Why this matters:** Because most people still use "123456" as their password 😅
 
 ---
