@@ -50,8 +50,6 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 ---
 
----
-
 ### 🤟 [ASL Sign Language Classifier](https://github.com/ridhorezkyanwar/sign-language-classification)
 
 **Deep Learning Computer Vision Pipeline** for American Sign Language (ASL) gesture recognition.
