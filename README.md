@@ -1,6 +1,14 @@
-# 👋 Hey, I'm Ridho!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ridho%20Rezky%20Anwar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Vocational%20School%20Student%20%7C%20Self-taught%20Dev&descSize=18&descAlignY=55&textBg=false"/>
 
-**16 years old • Vocational High School student in Jakarta • Self-taught dev who codes a lot**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Code+first%2C+master+later.;AI+%2B+Security+%3D+Perfect+Match.;Self-taught+is+valid." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ridhorezkyanwar">
+    <img src="https://komarev.com/ghpvc/?username=ridhorezkyanwar&label=Profile%20views&color=00FFFF&style=flat-square" alt="ridhorezkyanwar's profile views" />
+  </a>
+</p>
 
 ---
 
@@ -15,25 +23,6 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 - 🏆 Earning industry certifications (12+ in the last 8 months!)
 
 **My philosophy:** _"Code first, master later"_ — just start, the skills will catch up.
-
----
-
-## 💻 My Daily Tech Stack
-
-**Languages:**
-
-- Python (my favorite, can do almost anything)
-- TypeScript/JavaScript (for web stuff)
-- Bash (for Linux automation)
-
-**Tools & Systems:**
-
-- Linux / Ubuntu (my daily driver for systems engineering)
-- Git & Docker (so I don't cry during deployment)
-- AWS / Cloudinary (cloud, ML, everything in between)
-- Next.js + React (frontend)
-- Flask + MongoDB (backend)
-- `pytest` (for automated unit testing)
 
 ---
 
@@ -126,12 +115,69 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Languages & Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridhorezkyanwar&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ridhorezkyanwar&theme=radical&hide_border=true" width="48%" />
-</div>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+</p>
+
+<h3 align="center">Backend & Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+</p>
+
+<h3 align="center">Tools & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+</p>
+
+<h3 align="center">AI / ML</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <a href="https://github.com/ridhorezkyanwar">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridhorezkyanwar&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ridhorezkyanwar's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=ridhorezkyanwar&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ridhorezkyanwar's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ridhorezkyanwar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="ridhorezkyanwar's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ridhorezkyanwar&theme=tokyonight&radius=10" alt="ridhorezkyanwar's Activity Graph" />
+</p>
+<p align="center">
+  <a href="https://github.com/ridhorezkyanwar">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ridhorezkyanwar&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
@@ -141,13 +187,6 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 - **AI + Security = Perfect match** — the future of cybersecurity is in AI
 - **Self-taught is valid** — you don't need to wait for class to learn
 - **Ship fast, learn faster** — better to launch an imperfect project than never launch at all
-
----
-
-## 📫 How to reach me
-
-- **Email:** ridhorezky.dev@gmail.com
-- **LinkedIn:** [linkedin.com/in/ridho-rezky-anwar-98bb3a370](https://linkedin.com/in/ridho-rezky-anwar-98bb3a370)
 
 ---
 
@@ -167,10 +206,15 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 ---
 
-<div align="center">
+## 🔗 Connect with Me
 
-**Thanks for stopping by!** 🙏
+<p align="center">
+  <a href="mailto:ridhorezky.dev@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Ridho's Email"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ridho-rezky-anwar-98bb3a370"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ridho's LinkedIn"/></a>
+</p>
 
-_Last updated: July 2026_
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
