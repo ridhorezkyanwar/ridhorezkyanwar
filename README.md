@@ -105,7 +105,7 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 ---
 
-### 🔐 [Password Entropy Visualizer](https://github.com/ridhorezkyanwar/password-entropy)
+### 🔐 [Password Entropy Visualizer](https://github.com/ridhorezkyanwar/password-entropy-visualizer)
 
 **Password strength calculator** using information theory (entropy in bits).
 
@@ -189,7 +189,7 @@ Honestly, I'm still a high school junior at SMKN 6 Jakarta. But instead of just 
 
 ## 💡 Things I Believe In
 
-- **Open source is the future** — all my projects are open source on GitHub
+- **Open source is the future** — I share selected projects publicly on GitHub and keep some work private while it is in development
 - **AI + Security = Perfect match** — the future of cybersecurity is in AI
 - **Self-taught is valid** — you don't need to wait for class to learn
 - **Ship fast, learn faster** — better to launch an imperfect project than never launch at all
