@@ -1,5 +1,17 @@
 # Ridho Rezky Anwar
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Developer;Applied+AI;Cybersecurity" alt="Animated profile headline" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-006B5F?style=flat-square" alt="Cybersecurity badge" />
+  <img src="https://img.shields.io/badge/Applied%20AI-7B61FF?style=flat-square" alt="Applied AI badge" />
+</p>
+
+
 **Software Developer · Applied AI · Cybersecurity**
 
 I build practical software across application security, developer tooling, and machine learning. I value clear documentation, reproducible setup, and interfaces that make technical work easier to use.
