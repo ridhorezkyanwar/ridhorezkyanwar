@@ -10,6 +10,7 @@ I build practical software across application security, developer tools, and mac
 
 | Project | What it does | Demo |
 |---|---|---|
+| [**AI Security Triage Agent**](https://github.com/ridhorezkyanwar/ai-security-triage) | FastAPI review-first triage with an offline rules mode and optional Groq-hosted inference. Structures category and evidence quality and routes uncertain reports to a human. It does not prove or exploit vulnerabilities; the hosted demo is access-protected. | [Open gated demo](https://ai-security-triage.vercel.app/) · [Source](https://github.com/ridhorezkyanwar/ai-security-triage) |
 | [**Security Headers Analyzer**](https://github.com/ridhorezkyanwar/security-headers-analyzer) | Reviews HTTPS and selected HTTP security headers, then explains missing protections and possible remediations. Its grade is a heuristic, not a full security assessment. | [Open app](https://security-headers-analyzer.vercel.app/) |
 | [**Sentinel Log Analyzer**](https://github.com/ridhorezkyanwar/sentinel-log-analyzer) | Uses an LLM to summarize supplied security logs, surface possible indicators of compromise, and suggest investigation steps. Findings need human verification. | [Open app](https://sentinel-log-analyzer-phi.vercel.app/) |
 | [**Password Entropy Visualizer**](https://github.com/ridhorezkyanwar/password-entropy-visualizer) | Demonstrates entropy estimates, character-set assumptions, pattern warnings, and illustrative cracking-time calculations in the browser. | [Open app](https://password-entropy-visualizer-phi.vercel.app/) |
