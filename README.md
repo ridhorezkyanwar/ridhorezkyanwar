@@ -23,6 +23,28 @@ I build practical software across application security, developer tools, and mac
 | [**SysMon-CLI**](https://github.com/ridhorezkyanwar/sysmon-cli) | A Python CLI that displays a snapshot of CPU, memory, and root-disk usage. | — |
 | [**ShadowSix LMS**](https://github.com/ridhorezkyanwar/shadowsix-lms) | PHP + MySQL learning-management system with registration/login, an admin dashboard, and 13 subject areas with introductory lessons. | [Live site](https://shadowsix.free.je/) · [Source](https://github.com/ridhorezkyanwar/shadowsix-lms) |
 
+## Project snapshots
+
+<p align="center">
+  <a href="https://shadowsix.free.je/">
+    <img src="https://raw.githubusercontent.com/ridhorezkyanwar/shadowsix-lms/main/.github/shadowsix-banner.svg" width="280" alt="ShadowSix LMS project banner" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://game-landing-page-kappa.vercel.app/">
+    <img src="https://raw.githubusercontent.com/ridhorezkyanwar/game-landing-page/main/public/images/screenshot-1.webp" width="280" alt="Game Landing Page project visual" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sign-language-classification-jtpkzzhypoq4xalf9kzdcs.streamlit.app/">
+    <img src="https://raw.githubusercontent.com/ridhorezkyanwar/sign-language-classification/main/american_sign_language.PNG" width="280" alt="American Sign Language reference visual from the classifier project" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><a href="https://github.com/ridhorezkyanwar/shadowsix-lms">ShadowSix LMS</a> · <a href="https://github.com/ridhorezkyanwar/game-landing-page">Game Landing Page</a> · <a href="https://github.com/ridhorezkyanwar/sign-language-classification">ASL Classifier</a></sub>
+</p>
+
+<sub>These are representative assets from the project repositories: the ShadowSix banner, a visual asset included with the game landing-page template, and an ASL reference image. They are not screenshots of every live application; use the demo links above to explore the projects.</sub>
+
 ## Technologies used in my projects
 
 <p>
