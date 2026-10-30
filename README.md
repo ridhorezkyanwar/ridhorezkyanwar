@@ -10,6 +10,27 @@ I build practical software across application security, developer tools, and mac
 
 | Project | What it does | Demo |
 |---|---|---|
+| [**ShadowSix LMS**](https://github.com/ridhorezkyanwar/shadowsix-lms) | PHP + MySQL learning-management system with registration/login, a separate admin dashboard, material CRUD, and 13 subject areas with introductory lessons. Hosted on InfinityFree free shared PHP/MySQL hosting. | [**Live website**](https://shadowsix.free.je/) · [Source](https://github.com/ridhorezkyanwar/shadowsix-lms) · [Deployment guide](https://github.com/ridhorezkyanwar/shadowsix-lms/blob/main/INFINITYFREE_DEPLOYMENT.md) |
+
+<p>
+  <a href="https://github.com/ridhorezkyanwar/shadowsix-lms/actions/workflows/php-ci.yml"><img src="https://github.com/ridhorezkyanwar/shadowsix-lms/actions/workflows/php-ci.yml/badge.svg?branch=main" alt="ShadowSix PHP CI" /></a>
+  <a href="https://github.com/ridhorezkyanwar/shadowsix-lms/actions/workflows/php-lint.yml"><img src="https://github.com/ridhorezkyanwar/shadowsix-lms/actions/workflows/php-lint.yml/badge.svg?branch=main" alt="ShadowSix PHP syntax" /></a>
+  <a href="https://github.com/ridhorezkyanwar/shadowsix-lms/actions/workflows/package-infinityfree.yml"><img src="https://github.com/ridhorezkyanwar/shadowsix-lms/actions/workflows/package-infinityfree.yml/badge.svg?branch=main" alt="ShadowSix InfinityFree package" /></a>
+  <a href="https://github.com/ridhorezkyanwar/shadowsix-lms/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-0E7490.svg" alt="MIT License" /></a>
+  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white" alt="PHP 8.x" />
+  <img src="https://img.shields.io/badge/MySQL-MariaDB-4479A1?logo=mysql&logoColor=white" alt="MySQL and MariaDB" />
+  <img src="https://img.shields.io/badge/Hosting-InfinityFree-5B46D0" alt="InfinityFree" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ridhorezkyanwar/shadowsix-lms">
+    <img src="https://raw.githubusercontent.com/ridhorezkyanwar/shadowsix-lms/main/.github/shadowsix-banner.svg" alt="ShadowSix LMS animated banner" width="100%" />
+  </a>
+</p>
+
+
+| Project | What it does | Demo |
+|---|---|---|
 | [**AI Security Triage Agent**](https://github.com/ridhorezkyanwar/ai-security-triage) | FastAPI review-first triage with an offline rules mode and optional Groq-hosted inference. Structures category and evidence quality and routes uncertain reports to a human. It does not prove or exploit vulnerabilities; the hosted demo is access-protected. | [Open gated demo](https://ai-security-triage.vercel.app/) · [Source](https://github.com/ridhorezkyanwar/ai-security-triage) |
 | [**Security Headers Analyzer**](https://github.com/ridhorezkyanwar/security-headers-analyzer) | Reviews HTTPS and selected HTTP security headers, then explains missing protections and possible remediations. Its grade is a heuristic, not a full security assessment. | [Open app](https://security-headers-analyzer.vercel.app/) |
 | [**Sentinel Log Analyzer**](https://github.com/ridhorezkyanwar/sentinel-log-analyzer) | Uses an LLM to summarize supplied security logs, surface possible indicators of compromise, and suggest investigation steps. Findings need human verification. | [Open app](https://sentinel-log-analyzer-phi.vercel.app/) |
